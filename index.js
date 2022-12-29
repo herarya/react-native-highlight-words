@@ -1,4 +1,5 @@
 import React from 'react';
+import {Text} from 'react-native';
 import {findAll} from 'highlight-words-core';
 import PropTypes from 'prop-types';
 import { TextPropTypes } from 'deprecated-react-native-prop-types'
